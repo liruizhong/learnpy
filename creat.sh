@@ -7,13 +7,13 @@ else
 # -*- coding: utf-8 -*-
 
 \"\"\"
-# ===========================================
-#      FileName: $1
-#          Desc: $2
-#        Author: ruizhong.li
-#       Version:
-#    CreateTime: ${DATE}
-# ==========================================
+===========================================
+     FileName: $1
+         Desc: $2
+       Author: ruizhong.li
+      Version:
+   CreateTime: ${DATE}
+==========================================
 \"\"\"
 " > $1
 
